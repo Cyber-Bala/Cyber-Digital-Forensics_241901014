@@ -15,7 +15,7 @@
      Register Number: 241901014
      Department: Computer Science Engineering (Cyber Security)
      Semester: V
-     Subject: Web-Programming (CS23531)
+     Subject: Cyber and Digital Forensics (CR23532)
      Academic Year: 2026 - 2027
 
 ---
